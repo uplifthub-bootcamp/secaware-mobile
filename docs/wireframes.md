@@ -13,7 +13,7 @@ These show what goes on each screen and where, not how it should look. Every scr
 | harder to...     |   |                  |   | It is rarely a   |
 | 3 lessons        |   | 1 of 3 complete  |   | lucky guess      |
 |------------------|   |                  |   |                  |
-| Phishing, scams  |   | [x] Why passwords|   | Most stolen      |
+| Phishing, scams  |   | [x] Why passwords|   | Many stolen      |
 | Spot a fake...   |   | [ ] Strong ones  |   | passwords come...|
 | 3 lessons        |   | [ ] Turn on 2FA  |   |                  |
 |                  |   |                  |   | Tip: use a       |
@@ -38,7 +38,7 @@ The `[o]` button opens the profile screen, or log in if nobody is logged in.
 | ! Email or       |   |   email address  |   |                  |
 |   password wrong |   | Password         |   |                  |
 |                  |   | [              ] |   |                  |
-| [ Log in ]       |   | 12 characters+   |   |                  |
+| [ Log in ]       |   | 15 characters+   |   |                  |
 | Sign up          |   | [ Sign up ]      |   | [ Log out ]      |
 +------------------+   +------------------+   +------------------+
 ```
